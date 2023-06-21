@@ -4,12 +4,13 @@ import Basic from './Basic';
 import Listings from './Listings';
 import Class from './classComponent/Class'
 import Main from './sectionListComponent/Main';
+import HookUseEffct from './HookUseEffct';
 
 export default function App() {
 
   return (
     <View style={styles.container}>
-    <Class/>
+    yo
     </View>
     
   );
